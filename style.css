@@ -127,7 +127,7 @@ h1 {
 
 /* Hero Section */
 .hero {
-    background-image: url('assets/background.jpeg');
+    background-image: url('assets/background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -334,7 +334,7 @@ h1 {
     width: 100%;
     text-align: left;
     padding: 1rem;
-    background-image: url('assets/background.jpeg');
+    background-image: url('assets/background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -356,7 +356,7 @@ h1 {
 
 /* Testimonials */
 .testimonials-section {
-    background-image: url('assets/background.jpeg');
+    background-image: url('assets/background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -499,7 +499,7 @@ h1 {
 }
 /* Footer */
 .footer {
-    background-image: url('assets/background.jpeg');
+    background-image: url('assets/background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
